@@ -1,1 +1,1 @@
-# 21551A4240
+# ai-powered pdf knowledge assistant using google palm
